@@ -1,0 +1,8 @@
+print("Ejercicio2: PROMEDIO DE 3 NOTAS.")
+print("Ingrese las 3 notas del alumno N1 , N2, N3")
+N1 = int( input("N1: "))
+N2 = int( input("N2: "))
+N3 = int( input("N3: "))
+Prom = int( (N1+N2+N3)/3 )
+print("El promedio final es de...")
+print(Prom)
